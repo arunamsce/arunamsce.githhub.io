@@ -1,0 +1,22 @@
+.myphoto {
+  width: 150px;
+  height: 150px;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  font-family: "Slabo 27px", serif;
+  text-align: center;
+}
+
+.myphoto {
+  margin-right: 20px;
+}
+
+.bgblue {
+  background-color: turquoise;
+  padding: 50px 0;
+}
+
+.pad {
+  padding: 30;
+  margin-bottom: 30;
+}
